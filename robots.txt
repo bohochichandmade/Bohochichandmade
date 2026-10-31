@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bohochichandmade.github.io/Bohochichandmade111/sitemap.xml
